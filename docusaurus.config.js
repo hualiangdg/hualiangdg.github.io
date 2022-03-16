@@ -63,7 +63,7 @@ const config = {
           },
           {
             href: 'https://www.meetup.com/Hualien-Py/',
-            label: 'Meetup',
+            label: 'XXXX',
             position: 'left',
           },
           {
